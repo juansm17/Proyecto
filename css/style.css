@@ -1,0 +1,19 @@
+#body {
+    background-color: white;
+    padding:0;
+    margin:1px 0 0 0;
+
+}
+
+#h2 {
+    color: black;
+    font-family: Arial;
+}
+
+#musi{
+    visibility: hidden;
+    top: 520px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+}
