@@ -10,10 +10,11 @@
     font-family: Arial;
 }
 
-#musi{
+Music{
     visibility: hidden;
     top: 520px;
     width: 10px;
     height: 10px;
     position: absolute;
+   display: none;
 }
